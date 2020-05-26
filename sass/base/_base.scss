@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: inherit;
+}
+
+html {
+    //not a typography but it is a base definition of rem units
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+}
