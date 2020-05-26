@@ -1,0 +1,18 @@
+{
+  "name": "css-and-sass",
+  "version": "1.0.0",
+  "description": "First CSS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss ./css/style.css -w "
+  },
+  "author": "Sanjay Sanjel",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
