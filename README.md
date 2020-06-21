@@ -25,9 +25,6 @@ This is a sample project created for learning advanced CSS and SASS. This contai
 
 We will be writing modular CSS Code which will be easier to read, edit and maintain.
 
-##### Let's not forget:
-```javascript
-while(!(succeed = try()));
-```
+
 
 The static web-page will be hosted to Heroko soon....
