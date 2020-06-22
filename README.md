@@ -23,8 +23,8 @@ This is a sample project created for learning advanced CSS and SASS. This contai
 
 ### A little code snippet
 
-We will be writing modular CSS Code which will be easier to read, edit and maintain.
-
-
-
+We will be writing modular CSS Code which will be easier to read, edit and maintain
+Furthermore, we'll be cretaing two more projets with SASS.
 The static web-page will be hosted to Heroko soon....
+
+
